@@ -20,6 +20,7 @@ public class DiezxcientoTest {
 
 	@Test
 	public void testSaldoAhorro() throws Exception {
+		assertEquals(diezxciento.ahorro, diezxciento.ahorro);
 
 	}
 
